@@ -79,3 +79,7 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 Config/DefaultEditorPerProjectUserSettings.ini
+
+# Useless assets
+Content/StarterContent/HDRI/*
+Content/StarterContent/Maps/*
